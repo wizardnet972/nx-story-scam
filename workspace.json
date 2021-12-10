@@ -1,4 +1,8 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "nx-api": "apps/nx-api",
+    "nx-ui": "apps/nx-ui",
+    "nx-ui-e2e": "apps/nx-ui-e2e"
+  }
 }
